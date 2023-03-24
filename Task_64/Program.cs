@@ -31,6 +31,7 @@ string ReturnNumber(int enterNum)
     }
 }
 
+//Просим ввести число
 int num = EnterMessage("Введите число : ");
 
 if (ValidNum(num))
